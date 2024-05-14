@@ -1,0 +1,15 @@
+C:\Prueba\Shifted-List\bin\Debug\net8.0\Shifted-List.exe
+C:\Prueba\Shifted-List\bin\Debug\net8.0\Shifted-List.deps.json
+C:\Prueba\Shifted-List\bin\Debug\net8.0\Shifted-List.runtimeconfig.json
+C:\Prueba\Shifted-List\bin\Debug\net8.0\Shifted-List.dll
+C:\Prueba\Shifted-List\bin\Debug\net8.0\Shifted-List.pdb
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.AssemblyInfoInputs.cache
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.AssemblyInfo.cs
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.csproj.CoreCompileInputs.cache
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.sourcelink.json
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.dll
+C:\Prueba\Shifted-List\obj\Debug\net8.0\refint\Shifted-List.dll
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.pdb
+C:\Prueba\Shifted-List\obj\Debug\net8.0\Shifted-List.genruntimeconfig.cache
+C:\Prueba\Shifted-List\obj\Debug\net8.0\ref\Shifted-List.dll
